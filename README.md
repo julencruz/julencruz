@@ -4,4 +4,4 @@
 - 👀 I’m looking to collaborate on open-source projects and making my own.
 - 📫 You can reach me at:
 	- 📧: "julencruzg@gmail.com"
-	- ![Instagram logo](https://iconos8.es/icon/32323/instagram): @julencruzg
+	- ![Instagram logo](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg): @julencruzg
