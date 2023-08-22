@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Julen Cruz  👩‍💻 </h1>
+- 👋 Hi, I’m @julencruz.
 - 🤔 I’m interested in Software Engineering and Artificial Intelligence.
 - 🌱 I’m currently studying Computer Engineering in the Autonomous University of Barcelona (UAB) and learning web development.
 - ⚙️ I'm currently working with:
