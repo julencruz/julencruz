@@ -7,6 +7,8 @@
 	- `.js`
 	- `.html`
 	- `.css`
+        - `.java`
+        - `.sql`
 - 👀 I’m looking to collaborate on open-source projects and making my own.
 - 📫 You can reach me at:
 	- 📧 :  "julencruzg@gmail.com"
