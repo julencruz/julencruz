@@ -15,3 +15,4 @@
 - 📫 You can reach me at:
 	- 📧 :  "julencruzg@gmail.com"
 	- ![Instagram logo](assets/instagram-emoji.svg) :  "[@julencruzg](https://www.instagram.com/julencruzg)"
+  	- ![LinkedIn logo](assets/linkedin.svg) : "[Julen Cruz Gómez](https://www.linkedin.com/in/julen-cruz-gómez-547533273/)"
