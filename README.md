@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @julencruz.
-- 🤔 I’m interested in Software Engineering and Artificial Intelligence.
-- 🌱 I’m currently studying Computer Engineering in the Autonomous University of Barcelona (UAB) and learning web development.
-- ⚙️ I'm currently working with:
+- 🤔 I’m interested in Software Engineering. 
+- 🌱 I’m currently studying Computer Science with a mention in Software Engineering in the Autonomous University of Barcelona (UAB).
+- ⚙️ I've got experience with:
 	- `.cpp`
+	- `.java`
 	- `.py`
-	- `.js`
+	- `.c`
 	- `.html`
 	- `.css`
-        - `.java`
-        - `.sql`
+	- `.js`
+	- `.php`
+	
 - 👀 I’m looking to collaborate on open-source projects and making my own.
 - 📫 You can reach me at:
 	- 📧 :  "julencruzg@gmail.com"
