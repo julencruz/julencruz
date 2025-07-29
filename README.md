@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julencruz.
-- 🤔 I’m interested in Software Engineering. 
+- 🤔 I’m interested in Software Engineering and Machine Learning. 
 - 🌱 I’m currently studying Computer Science with a mention in Software Engineering in the Autonomous University of Barcelona (UAB).
 - ⚙️ I've got experience with:
 	- `.cpp`
