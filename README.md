@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Julen Cruz</h1>
-  <h3>Backend Engineer @ Glovo | Software Engineering @ UAB</h3>
+  <h3>Software Engineer @ Glovo | Software Engineering Student @ UAB</h3>
 </div>
 
 ---
